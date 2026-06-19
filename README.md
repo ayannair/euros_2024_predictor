@@ -25,4 +25,4 @@ The final matchup was France vs. Croatia, where France won the tournament and Cr
 </p>
 
 Slideshow for more information:
-<a href="https://docs.google.com/presentation/d/1M4TPN857Uc9j2uMsXBJHLLH9ip2cDuTk7FlBoGFtses/edit?slide=id.p#slide=id.p"></a>
+<a href="https://docs.google.com/presentation/d/1M4TPN857Uc9j2uMsXBJHLLH9ip2cDuTk7FlBoGFtses/edit?slide=id.p#slide=id.p">Slides</a>
