@@ -24,3 +24,5 @@ The final matchup was France vs. Croatia, where France won the tournament and Cr
 <img src= "https://github.com/ayannair/euros_2024_predictor/assets/148826074/6d30becb-fc98-4c0c-b50d-7e634074b3eb" alt="Euro Bracket Final">
 </p>
 
+Slideshow for more information:
+<a href="https://docs.google.com/presentation/d/1M4TPN857Uc9j2uMsXBJHLLH9ip2cDuTk7FlBoGFtses/edit?slide=id.p#slide=id.p"</a>
